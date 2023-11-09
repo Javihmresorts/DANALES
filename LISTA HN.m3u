@@ -1,0 +1,261 @@
+#EXTINF:-1,AXN
+http://177.234.242.150:50032/play/a0dy/index.m3u8
+
+#EXTINF:-1, VTV
+https://d1af06j591gh9u.cloudfront.net/VTVHN/e395935fa39597e3997b916a295f23e4.sdp/VTVHN/VTV1/chunks.m3u8
+
+#EXTINF:-1, LTV
+https://5e85d90130e77.streamlock.net/6022/6022/chunklist_w778647386.m3u8
+
+#EXTINF:-1, VALLE VISION
+https://mediacp.us:8081/vallevision/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1, CANAL 5 EL LIDER
+https://mdstrm.com/live-stream-playlist/6287fda8ea3b8b397d1ca2ed.m3u8
+
+#EXTINF:-1, TSI
+https://mdstrm.com/live-stream-playlist/6287fdc9303e3008289ab711.m3u8
+
+
+#EXTINF:-1, CANAL 6
+https://inliveserver.com:1936/17502/17502/chunklist_w1285114621.m3u8
+
+#EXTINF:-1, 45TV
+https://stream.alojamientowebgt.com:3656/live/tv45live.m3u8
+
+#EXTINF:-1, Q'HUBO TV
+https://5e85d90130e77.streamlock.net/6024/6024/chunklist_w462013282.m3u8
+
+#EXTINF:-1, UNE TV
+https://amixtv.live:3395/live/unetvlive.m3u8
+
+#EXTINF:-1, CampusTV.hn
+https://5e85d90130e77.streamlock.net/6052/6052/playlist.m3u8
+
+#EXTINF:-1, TEN Canal 10
+http://stream.grupoabchn.com:1935/TENHD/TENLIVEHD_2/playlist.m3u8
+
+#EXTINF:-1, CANAL 11
+https://mdstrm.com/live-stream-playlist/603d4e1fb042ce07c5c8f911.m3u8
+
+
+#EXTINF:-1, MAYA TV
+https://media.streambrothers.com:19360/8356/8356.m3u8
+
+#EXTINF:-1,GLOBO TV
+https://panel.dattalive.com/8122/8122/playlist.m3u8
+
+
+#EXTINF:-1,La7d Italia
+https://d15umi5iaezxgx.cloudfront.net/LA7D/CLN/HLS-B/Live.m3u8
+#EXTINF:-1,La7 Italia
+https://d15umi5iaezxgx.cloudfront.net/LA7/CLN/HLS-B/Live.m3u8
+#EXTINF:-1,m2o Italia
+https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S62628868/uhdWBlkC1AoO/playlist.m3u8
+#EXTINF:-1,Hispan TV Iran
+https://cdnlive.presstv.ir/cdnlive/smil:live.smil/playlist.m3u8
+#EXTINF:-1, TeleDiario Costa Rica
+https://mdstrm.com/live-stream-playlist/5a7b1e63a8da282c34d65445.m3u8
+#EXTINF:-1,24 HORAS
+http://177.234.242.150:50032/play/a0gp/index.m3u8
+#EXTINF:-1,70s Hits
+http://177.234.242.150:50032/play/a0d4/index.m3u8
+#EXTINF:-1,80s Hits
+http://177.234.242.150:50032/play/a0d5/index.m3u8
+#EXTINF:-1,AE Mundo
+http://177.234.242.150:50032/play/a0d1/index.m3u8
+
+#EXTINF:-1,America TV HD
+http://177.234.242.150:50032/play/a0g9/index.m3u8
+#EXTINF:-1,America TV PY
+http://177.234.242.150:50032/play/a0dr/index.m3u8
+#EXTINF:-1,Animal Planet
+http://177.234.242.150:50032/play/a0cs/index.m3u8
+#EXTINF:-1,Animal Planet HD
+http://177.234.242.150:50032/play/a0ff/index.m3u8
+#EXTINF:-1,Around the World
+http://177.234.242.150:50032/play/a0f0/index.m3u8
+#EXTINF:-1,BabyFirst
+http://177.234.242.150:50032/play/a0c2/index.m3u8
+#EXTINF:-1,CHV
+http://177.234.242.150:50032/play/a0gn/index.m3u8
+#EXTINF:-1,CNN Chile
+http://177.234.242.150:50032/play/a0bs/index.m3u8
+#EXTINF:-1,CNN Espanol
+http://177.234.242.150:50032/play/a0c6/index.m3u8
+#EXTINF:-1,Canal Caracol
+http://177.234.242.150:50032/play/a0gf/index.m3u8
+#EXTINF:-1,Canal Claro
+http://177.234.242.150:50032/play/a048/index.m3u8
+#EXTINF:-1,Canal Estrellas
+http://177.234.242.150:50032/play/a0d8/index.m3u8
+#EXTINF:-1,Canal Uno
+http://177.234.242.150:50032/play/a0ge/index.m3u8
+#EXTINF:-1,Cartoon Network
+http://177.234.242.150:50032/play/a0bv/index.m3u8
+#EXTINF:-1,Cartoon Network HD
+http://177.234.242.150:50032/play/a0f9/index.m3u8
+#EXTINF:-1,Cinecanal
+http://177.234.242.150:50032/play/a0bn/index.m3u8
+#EXTINF:-1,Cinecanal HD
+http://177.234.242.150:50032/play/a0f4/index.m3u8
+#EXTINF:-1,Cinemax
+http://177.234.242.150:50032/play/a0dw/index.m3u8
+#EXTINF:-1,Claro Cinema
+http://177.234.242.150:50032/play/a0e7/index.m3u8
+#EXTINF:-1,Classic Rock
+http://177.234.242.150:50032/play/a0d3/index.m3u8
+#EXTINF:-1,Discovery Channel
+http://177.234.242.150:50032/play/a0gl/index.m3u8
+#EXTINF:-1,Discovery ID
+http://177.234.242.150:50032/play/a0dd/index.m3u8
+#EXTINF:-1,Discovery Kids
+http://177.234.242.150:50032/play/a0c5/index.m3u8
+#EXTINF:-1,Discovery Turbo
+http://177.234.242.150:50032/play/a0e9/index.m3u8
+#EXTINF:-1,Disney Channel
+http://177.234.242.150:50032/play/a0cq/index.m3u8
+#EXTINF:-1,Disney Jr
+http://177.234.242.150:50032/play/a0ci/index.m3u8
+#EXTINF:-1,E Entertainment
+http://177.234.242.150:50032/play/a0cu/index.m3u8
+#EXTINF:-1,E! HD
+http://177.234.242.150:50032/play/a0fq/index.m3u8
+#EXTINF:-1,ECDF SD
+http://177.234.242.150:50032/play/a0f1/index.m3u8
+#EXTINF:-1,ESPN
+http://177.234.242.150:50032/play/a0cx/index.m3u8
+#EXTINF:-1,ESPN 2
+http://177.234.242.150:50032/play/a0cl/index.m3u8
+#EXTINF:-1,ESPN 2 Latin
+http://177.234.242.150:50032/play/a0cw/index.m3u8
+#EXTINF:-1,ESPN 3
+http://177.234.242.150:50032/play/a0eb/index.m3u8
+#EXTINF:-1,ESPN 4
+http://177.234.242.150:50032/play/a0dn/index.m3u8
+#EXTINF:-1,ESPN CO
+http://177.234.242.150:50032/play/a0es/index.m3u8
+#EXTINF:-1,ESPN EXTRA HD
+http://177.234.242.150:50032/play/a0f6/index.m3u8
+#EXTINF:-1,ESPN HD
+http://177.234.242.150:50032/play/a0fo/index.m3u8
+#EXTINF:-1,Ecuador TV
+http://177.234.242.150:50032/play/a0gj/index.m3u8
+#EXTINF:-1,Ecuavisa
+http://177.234.242.150:50032/play/a0el/index.m3u8
+#EXTINF:-1,ElCanaldelFutbol HD
+http://177.234.242.150:50032/play/a0fy/index.m3u8
+#EXTINF:-1,Enlace
+http://177.234.242.150:50032/play/a0c0/index.m3u8
+#EXTINF:-1,Esne TV
+http://177.234.242.150:50032/play/a0ea/index.m3u8
+#EXTINF:-1,FX
+http://177.234.242.150:50032/play/a0e0/index.m3u8
+#EXTINF:-1,Food Network HD
+http://177.234.242.150:50032/play/a0g8/index.m3u8
+#EXTINF:-1,Fox Sports 2
+http://177.234.242.150:50032/play/a0d9/index.m3u8
+#EXTINF:-1,Fox Sports 3
+http://177.234.242.150:50032/play/a0da/index.m3u8
+#EXTINF:-1,France 24
+http://177.234.242.150:50032/play/a0de/index.m3u8
+#EXTINF:-1,GOL TV
+http://177.234.242.150:50032/play/a0cy/index.m3u8
+#EXTINF:-1,GamaTV
+http://177.234.242.150:50032/play/a0ds/index.m3u8
+#EXTINF:-1,GolTV HD
+http://177.234.242.150:50032/play/a0fr/index.m3u8
+#EXTINF:-1,Golden HD
+http://177.234.242.150:50032/play/a0fm/index.m3u8
+#EXTINF:-1,HBO
+http://177.234.242.150:50032/play/a0dv/index.m3u8
+#EXTINF:-1,HBO 2
+http://177.234.242.150:50032/play/a0ce/index.m3u8
+#EXTINF:-1,HBO 2 HD
+http://177.234.242.150:50032/play/a0fd/index.m3u8
+#EXTINF:-1,HBO Family
+http://177.234.242.150:50032/play/a0ch/index.m3u8
+#EXTINF:-1,HBO HD
+http://177.234.242.150:50032/play/a0f7/index.m3u8
+#EXTINF:-1,HBO Plus
+http://177.234.242.150:50032/play/a0cf/index.m3u8
+#EXTINF:-1,HBO XTREME SD
+http://177.234.242.150:50032/play/a0cg/index.m3u8
+#EXTINF:-1,History Channel
+http://177.234.242.150:50032/play/a0bm/index.m3u8
+#EXTINF:-1,HomeandHealth
+http://177.234.242.150:50032/play/a0di/index.m3u8
+#EXTINF:-1,I-Sat
+http://177.234.242.150:50032/play/a0bp/index.m3u8
+#EXTINF:-1,Latina HD
+http://177.234.242.150:50032/play/a0fv/index.m3u8
+#EXTINF:-1,Lifetime
+http://177.234.242.150:50032/play/a02p/index.m3u8
+#EXTINF:-1,MTV
+http://177.234.242.150:50032/play/a0bq/index.m3u8
+#EXTINF:-1,Nat Geo
+http://177.234.242.150:50032/play/a0bl/index.m3u8
+#EXTINF:-1,Nat Geo HD
+http://177.234.242.150:50032/play/a0f2/index.m3u8
+#EXTINF:-1,Nick Jr
+http://177.234.242.150:50032/play/a0e8/index.m3u8
+#EXTINF:-1,Nickelodeon
+http://177.234.242.150:50032/play/a0bk/index.m3u8
+#EXTINF:-1,Paramount HD
+http://177.234.242.150:50032/play/a0fa/index.m3u8
+#EXTINF:-1,RCN Novelas
+http://177.234.242.150:50032/play/a0dc/index.m3u8
+#EXTINF:-1,RTS
+http://177.234.242.150:50032/play/a0e4/index.m3u8
+#EXTINF:-1,STAR CHANNEL
+http://177.234.242.150:50032/play/a0bt/index.m3u8
+#EXTINF:-1,Sin Limites
+http://177.234.242.150:50032/play/a0dq/index.m3u8
+#EXTINF:-1,Sony
+http://177.234.242.150:50032/play/a0dx/index.m3u8
+#EXTINF:-1,Space
+http://177.234.242.150:50032/play/a0dz/index.m3u8
+#EXTINF:-1,Stingray Concerts HD
+http://177.234.242.150:50032/play/a0g7/index.m3u8
+#EXTINF:-1,Studio Universal
+http://177.234.242.150:50032/play/a036/index.m3u8
+#EXTINF:-1,Studio Universal HD
+http://177.234.242.150:50032/play/a0fb/index.m3u8
+#EXTINF:-1,SyFy
+http://177.234.242.150:50032/play/a0c4/index.m3u8
+#EXTINF:-1,TBS
+http://177.234.242.150:50032/play/a0dg/index.m3u8
+#EXTINF:-1,TC Television
+http://177.234.242.150:50032/play/a0ei/index.m3u8
+#EXTINF:-1,TCM
+http://177.234.242.150:50032/play/a0bu/index.m3u8
+#EXTINF:-1,TLC
+http://177.234.242.150:50032/play/a0d6/index.m3u8
+#EXTINF:-1,TNT
+http://177.234.242.150:50032/play/a0bw/index.m3u8
+#EXTINF:-1,TNT SPORTS 2
+http://177.234.242.150:50032/play/a0go/index.m3u8
+#EXTINF:-1,TV+ HD
+http://177.234.242.150:50032/play/a00c/index.m3u8
+#EXTINF:-1,TVE
+http://177.234.242.150:50032/play/a0c1/index.m3u8
+#EXTINF:-1,Teleamazonas
+http://177.234.242.150:50032/play/a0em/index.m3u8
+#EXTINF:-1,Telehit HD
+http://177.234.242.150:50032/play/a0fn/index.m3u8
+#EXTINF:-1,Telemundo
+http://177.234.242.150:50032/play/a0db/index.m3u8
+#EXTINF:-1,TyC
+http://177.234.242.150:50032/play/a0cz/index.m3u8
+#EXTINF:-1,TyC Sports HD
+http://177.234.242.150:50032/play/a0fw/index.m3u8
+#EXTINF:-1,Universal
+http://177.234.242.150:50032/play/a0bo/index.m3u8
+#EXTINF:-1,ViaX
+http://177.234.242.150:50032/play/a0d7/index.m3u8
+#EXTINF:-1,Warner
+http://177.234.242.150:50032/play/a0ct/index.m3u8
+#EXTINF:-1,Win Sports+ HD
+http://177.234.242.150:50032/play/a0hf/index.m3u8
+#EXTINF:-1,Zona Latina
+http://177.234.242.150:50032/play/a0br/index.m3u8
